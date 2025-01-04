@@ -2,3 +2,4 @@ this is a text file
 
 my new line 
 
+my second change
